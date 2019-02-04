@@ -1,0 +1,16 @@
+<!doctype css>
+
+body, html, p
+{
+  background-color:EEEEEE;
+  color:#00ff00;
+}
+#contactInfo
+{
+	background-color:#154ae1;
+}
+
+.backgroundPurple
+{
+	background-color:purple;
+}
