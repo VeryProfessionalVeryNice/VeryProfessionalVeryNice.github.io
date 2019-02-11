@@ -1,10 +1,31 @@
 <!doctype css>
-
-body, html, p
+@"charset "utf=8";
+body, html
+{
+	font-family:"times new roman", serif;
+	font-weight:700;
+	
+}
+h11, h2, h3, h3
+{
+	font-variant:small-caps;
+}
+@font-face
+{
+font-family: Champagne;
+src: url(cac_champagne.woff) format('woff'),
+url(cac_champagne.ttf) format('ttf');
+}
 {
   background-color:EEEEEE;
   color:#00ff00;
+  font-size:2em;
 }
+ul
+{
+	color:hs1(91,8%,56%);
+}
+
 #contactInfo
 {
 	background-color:#154ae1;
@@ -13,4 +34,27 @@ body, html, p
 .backgroundPurple
 {
 	background-color:purple;
+}
+
+ol li <!--only style lists inside of ordered lists -->
+{
+	
+}
+
+ul 
+{
+	list-style-image:url('../images/marker.png');
+}
+
+a:hover, a:focus
+{
+	color:gray;
+}
+a:link
+{
+	
+}
+p
+{
+	font-family: 'Slabo 27px', serif;
 }
