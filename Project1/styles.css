@@ -1,2 +1,13 @@
 <!doctype css>
 @charset "utf-8";
+
+   /* Andrew Miller */
+   /* Project1 */
+   /* 20 February 2019 */
+   /* Filename: styles.css */
+   
+   html, body {background-color:#bebebe;}
+p, ul, olive{
+	color:#eeeeee
+	background-color:#111111
+}
