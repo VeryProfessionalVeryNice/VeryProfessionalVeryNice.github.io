@@ -1,3 +1,23 @@
+<!doctype css>
+@charset "utf-8";
+@font-face
+{
+font-family: Champagne;
+src: url(cac_champagne.woff) format('woff'),
+url(cac_champagne.ttf) format('ttf');
+}
+@font-face
+{
+font-family: 1942;
+src: url(1942.woff) format('woff'),
+url(1942.ttf) format('ttf');
+}
+@font-face
+{
+font-family: DobkinPlain;
+src: url(DobkinPlain.woff) format('woff'),
+url(DobkinPlain.ttf) format('ttf');
+}
 /*
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 2
@@ -12,7 +32,15 @@
 */
 
 
+
 /* Structural Styles */
+HTML5
+{
+	color:hs1(91,8%,56%);
+}
+BODY{
+	color:hsl(58,31%,84%);
+}
 
 
 
