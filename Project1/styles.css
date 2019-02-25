@@ -5,9 +5,32 @@
    /* Project1 */
    /* 20 February 2019 */
    /* Filename: styles.css */
-   
+
    html, body {background-color:#bebebe;}
 p, ul, olive{
 	color:#eeeeee
 	background-color:#111111
+}
+main {
+  margin-right: auto;
+  margin-left: auto;
+}
+contact {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 60%;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: orange;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: blue;
 }
