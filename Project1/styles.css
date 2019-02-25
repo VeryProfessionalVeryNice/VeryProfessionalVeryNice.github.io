@@ -11,6 +11,10 @@ p, ul, olive{
 	color:#eeeeee
 	background-color:#111111
 }
+body {
+  color:#eeeeee
+	background-color:#111111
+}
 main {
   margin-right: auto;
   margin-left: auto;
