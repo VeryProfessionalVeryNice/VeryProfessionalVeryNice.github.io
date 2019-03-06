@@ -6,20 +6,19 @@
    /* 20 February 2019 */
    /* Filename: styles.css */
 
-   html, body {background-color:#bebebe;}
-p, ul, olive{
-	color:#eeeeee
-	background-color:#111111
+p{
+	color:black;
+	background-color:red;
 }
 body {
-  color:#eeeeee
-	background-color:#111111
+  color:black;
+	background-color:red;
 }
 main {
   margin-right: auto;
   margin-left: auto;
 }
-contact {
+.contact {
   margin-top: 0px;
   margin-bottom: 0px;
   margin-right: auto;
